@@ -1,0 +1,34 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>title1(1).png</file>
+    <file>title1(2).png</file>
+    <file>interneticon.png</file>
+    <file>locationicon.png</file>
+    <file>mailicon.png</file>
+    <file>camicon.png</file>
+    <file>codingicon.png</file>
+    <file>dateicon.png</file>
+    <file>icons8-device-manager-96.png</file>
+    <file>icons8-idea-64.png</file>
+    <file>icons8-idea-sharing-50 (1).png</file>
+    <file>icons8-webcam-64.png</file>
+    <file>interneticon.png</file>
+    <file>locationicon.png</file>
+    <file>mailicon.png</file>
+    <file>messageicon.png</file>
+    <file>newsicon.png</file>
+    <file>searchicon.png</file>
+    <file>settingicon.png</file>
+    <file>shutdownicon.png</file>
+    <file>systemicon.png</file>
+    <file>tempicon.png</file>
+    <file>timeicon.png</file>
+    <file>newsicon.png</file>
+    <file>title2.png</file>
+    <file>subtitle1.png</file>
+    <file>title3.png</file>
+    <file>MP trans.png</file>
+    <file>blue gradient.png</file>
+    <file>messageicon.png</file>
+  </qresource>
+</RCC>

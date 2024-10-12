@@ -1,0 +1,14 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>new.gif</file>
+    <file>ezgif.com-crop.gif</file>
+    <file>border.png</file>
+    <file>voiceanimatedgif.gif</file>
+    <file>maintitle (2).png</file>
+    <file>Untitled.gif</file>
+    <file>pngegg.png</file>
+    <file>angelinaa_AdobeExpress (1).gif</file>
+    <file>output-onlinejpgtools.png</file>
+    <file>voice_AdobeExpress.gif</file>
+  </qresource>
+</RCC>
